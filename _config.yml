@@ -1,0 +1,28 @@
+name: van.G.naar.B
+favicon: null
+layout_spectrum: 0.29181327391415834
+typography_spectrum: 0.46152688772417605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.387618399458006
+  lightness: 0.8121857529040426
+  saturation: 0.06527033168822527
+  rhythmicContrast: 0.7560868344735354
+purpose: []
